@@ -1,3 +1,5 @@
 add thêm table
 - đơn vị
 edit table ncc
+
+thêm ảnh 
